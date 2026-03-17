@@ -1,7 +1,7 @@
 # Honest Manjombo — Data Analytics Portfolio
 
 **Senior Data Analyst | BI Engineer | Big Data Specialist**
-📍 Birmingham, UK | 💼 [LinkedIn](https://www.linkedin.com/in/kudahonest)
+📍 UK | 💼 [LinkedIn](https://www.linkedin.com/in/kudahonest)
 
 ---
 
