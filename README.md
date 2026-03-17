@@ -14,7 +14,7 @@ logistics, technology, gaming, and healthcare.
 Currently **Data Analytics Assistant Manager at BDO UK** (equivalent: Senior Data Analyst /
 Analytics Lead), working daily with:
 
-- **SQL** — advanced CTEs, window functions, nested joins, 300M+ row datasets
+- **SQL** — advanced CTEs, window functions, nested joins, 100M+ row datasets
 - **Databricks on Microsoft Azure** + **PySpark** — ETL pipelines, Parquet ingestion, Delta Lake
 - **Power BI** — star schema architecture, advanced DAX, self-service analytics
 - **Alteryx** — Core Certified, workflow automation
